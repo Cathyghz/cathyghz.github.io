@@ -2,9 +2,9 @@
 title: "LinguaLens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder"
 collection: publications
 category: conferences
-permalink: /publication/2025-EMNLP-LinguaLens.md
+permalink: /publication/2025-EMNLP-LinguaLens
 excerpt: 'We introduce LinguaLens, a sparse auto-encoder–based framework for analyzing linguistic mechanisms in large language models.'
-date: 2025
+date: "2025-08-20"
 venue: 'EMNLP'
 paperurl: 'https://arxiv.org/abs/2502.20344'
 citation: 'Yi Jing, Zijun Yao, Hongzhu Guo, Lingxu Ran, Xiaozhi Wang, Lei Hou, Juanzhi Li. 2025. <i>LinguaLens: Towards Interpreting Linguistic Mechanisms of Large Language Models via Sparse Auto-Encoder</i>. EMNLP 2025.'
