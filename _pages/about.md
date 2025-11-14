@@ -15,5 +15,3 @@ My research interests include:
 
 - Interpretability of large language models  
 - Sparse Auto-Encoders (SAE)  
-
-Feel free to explore my work in the *Publications* section or reach me via email: **cathyghz@gmail.com**.
